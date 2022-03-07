@@ -7,8 +7,8 @@ banner: https://en.wikipedia.org/wiki/Plant#/media/File:Haeckel_Siphoneae.jpg
 
 # When using a custom domain these fields must be updated to match
 # the Github account and repository name
-#acct: sherribr
-#repo: Kuhn_juncture_test
+#acct: <GitHub account/username>
+#repo: <GitHub repository>
 
 ######################################################
 # Defines options shown in the header navigation menu
