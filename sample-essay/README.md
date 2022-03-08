@@ -18,7 +18,7 @@
 # Helianthus annuss
 
 This is a sample visual essay talking about the common sunflower.  Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
-<param ve-image 
+<param ve-image fit="contain"
        manifest="https://upload.wikimedia.org/wikipedia/commons/2/23/Claude_Monet_052.jpg">
 
 ## Image
@@ -41,7 +41,7 @@ Monet was born in Paris, France on November 14, 1840.
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
 Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       manifest="https://upload.wikimedia.org/wikipedia/commons/2/23/Claude_Monet_052.jpg">
 <param ve-map center="Q36600" zoom="11">
 
 # References
