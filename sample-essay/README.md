@@ -46,7 +46,7 @@ The painting of sunflowers by Monet hangs in the Metropolitan Museum of Art in N
        description="entrace to The Met in Manhattan, New York City" 
        license="attribution-share alike 2.0 generic" 
        url="https://upload.wikimedia.org/wikipedia/commons/3/30/Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg">
-<param ve-map center="Q160236" zoom="11">
+<param ve-map center="40.46, 73.57" zoom="11">
 
 # References
 
