@@ -18,8 +18,11 @@
 # Helianthus annuss
 
 This is a sample visual essay talking about the common sunflower.  Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
-<param ve-image fit="contain"
-       manifest="https://upload.wikimedia.org/wikipedia/commons/2/23/Claude_Monet_052.jpg">
+<param ve-image 
+       label="Bouquet of Sunflowers" 
+       description="painting by Claude Monet" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/2/23/Claude_Monet_052.jpg">
 
 ## Image
 
@@ -37,11 +40,12 @@ Monet was born in Paris, France on November 14, 1840.
 <param ve-map center="Q90" zoom="10">
 
 ## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
+The painting of sunflowers by Monet hangs in the Metropolitan Museum of Art in New York City
 <param ve-image 
-       manifest="https://upload.wikimedia.org/wikipedia/commons/2/23/Claude_Monet_052.jpg">
+       label="The Met" 
+       description="entrace to The Met in Manhattan, New York City" 
+       license="attribution-share alike 2.0 generic" 
+       url="https://upload.wikimedia.org/wikipedia/commons/3/30/Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg">
 <param ve-map center="Q36600" zoom="11">
 
 # References
