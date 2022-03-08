@@ -13,6 +13,7 @@
 <param title="Carl Linnaeus" eid="Q1043" aliases="Linnaeus"> 
 <param title="Genera Plantarum" eid="Qa0975586" aliases="5th edition Genera Plantarum"> 
 <param title="Claude Monet" eid="Q296" aliases="Monet"> 
+<param title="Paris" eid="Q90" aliases="Paris, France"> 
 
 # Helianthus annuss
 
@@ -32,9 +33,8 @@ dated 1881. Monet painted a still life of sunflowers from his garden pathway.[^1
 
 ## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+Monet was born in Paris, France on November 14, 1840. 
+<param ve-map center="Q90" zoom="10">
 
 ## Multiple viewers
 
