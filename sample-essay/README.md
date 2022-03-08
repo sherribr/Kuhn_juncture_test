@@ -18,7 +18,7 @@
 
 This is a sample visual essay talking about the common sunflower.  Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       manifest="https://upload.wikimedia.org/wikipedia/commons/2/23/Claude_Monet_052.jpg">
 
 ## Image
 
