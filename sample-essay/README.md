@@ -12,6 +12,7 @@
 <param title="Helianthus annuss" eid="Q171497" aliases="common sunflower"> 
 <param title="Carl Linnaeus" eid="Q1043" aliases="Linnaeus"> 
 <param title="Genera Plantarum" eid="Qa0975586" aliases="5th edition Genera Plantarum"> 
+<param title="Claude Monet" eid="Q296" aliases="Monet"> 
 
 # Helianthus annuss
 
@@ -21,7 +22,7 @@ This is a sample visual essay talking about the common sunflower.  Additional [D
 
 ## Image
 
-_Bouquet of Sunflowers_ (Dutch: Stilleben mit Sonnenblumen) is a painting by French painter Claude Monet, 
+_Bouquet of Sunflowers_ (Dutch: Stilleben mit Sonnenblumen) is a painting by French impressionist painter Claude Monet, 
 dated 1881. Monet painted a still life of sunflowers from his garden pathway.[^1]
 <param ve-image 
        label="Bouquet of Sunflowers" 
