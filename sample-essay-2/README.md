@@ -1,8 +1,8 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
-       author="JSTOR Labs team"
+       title="My Site About Cats"
+       author="Sherri Brown"
        banner="PandD2.jpg" 
        layout="vertical">
 
