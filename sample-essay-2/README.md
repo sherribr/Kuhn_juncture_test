@@ -17,8 +17,7 @@
 
 # So Many Cats 
 This is a visual essay about cats in general as well as information about my own cats specifically. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
-<param ve-graphic
-       manifest="https://upload.wikimedia.org/wikipedia/commons/6/6d/Closeup_of_a_black_cat.jpg">
+<param ve-graphic label "Black cat" description="a close-up picture of a black cat" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/6/6d/Closeup_of_a_black_cat.jpg">
 
 # Basic usage
 
