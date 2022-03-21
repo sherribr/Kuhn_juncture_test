@@ -33,9 +33,8 @@ dated 1887. It is currently on display at the Musée d'Orsay in Paris. [^1] And 
 
 ## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+Now I want to show you an example of how to put a map in your essay. Initially, I am going to share the location of the Musee d'Orsay in France.
+<param ve-map center="Q2698691" zoom="11" prefer-geojson>
 
 ## Multiple viewers
 
