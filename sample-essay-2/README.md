@@ -24,7 +24,7 @@ This is a visual essay about cats in general as well as information about my own
 ## Impressionists 
 
 _Julie Manet_ (Also known as _Child with Cat_) is an oil painting by French painter and sculptor Auguste Renoir, 
-dated 1887. It is currently on display at the Musée d'Orsay in Paris. [^1]
+dated 1887. It is currently on display at the Musée d'Orsay in Paris. [^1] And here is some more information about cats that I want to cite. [^2]
 <param ve-image 
        label="Julie Manet" 
        description="painting by Auguste Renoir" 
@@ -48,3 +48,4 @@ Others are selectable using icons displayed in the top right margin of the parag
 # References
 
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^2]: [Wikipedia: Cat](https://en.wikipedia.org/wiki/Cat)
