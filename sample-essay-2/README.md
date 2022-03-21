@@ -47,5 +47,5 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [Musée d'Orsay](https://www.musee-orsay.fr/fr/oeuvres/julie-manet-100382)
 [^2]: [Wikipedia: Cat](https://en.wikipedia.org/wiki/Cat)
