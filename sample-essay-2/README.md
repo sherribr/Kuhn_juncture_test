@@ -19,18 +19,17 @@
 This is a visual essay about cats in general as well as information about my own cats specifically. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-graphic label "Black cat" description="a close-up picture of a black cat" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/6/6d/Closeup_of_a_black_cat.jpg">
 
-# Cats in history 
+# Cats in art
 
-## Founding of the classification 
+## Impressionists 
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+_Julie Manet_ (Also known as _Child with Cat_) is an oil painting by French painter and sculptor Auguste Renoir, 
+dated 1887. It is currently on display at the Musée d'Orsay in Paris. [^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="Julie Manet" 
+       description="painting by Auguste Renoir" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Auguste_Renoir_-_Julie_Manet_-_Google_Art_Project.jpg">
 
 ## Map
 
