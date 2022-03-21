@@ -34,8 +34,8 @@ dated 1887. It is currently on display at the Musée d'Orsay in Paris. [^1] And 
 ## Map
 
 Now I want to show you an example of how to put a map in your essay. Initially, I am going to share the location of the Musee d'Orsay in France.
-<param ve-entity="Q23402">
-<param ve-map center="Q23402" zoom="11" prefer-geojson>
+<param ve-entity="Q2698691">
+<param ve-map center="Q2698691" zoom="11" prefer-geojson>
 
 ## Multiple viewers
 
