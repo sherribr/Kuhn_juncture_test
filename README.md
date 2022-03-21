@@ -9,3 +9,5 @@ More information can be found on the [Juncture web site](https://juncture-digita
 Find a course description for Mary's class on the [UVA Depeartment of English's Graduate Course Descriptions page](https://english.as.virginia.edu/courses/graduate-course-descriptions-spring-2022).
 
 This is a link to [my new essay](sample-essay).
+My [second essay](sample-essay-2).
+And my [third essay](sample-essay-3). 
