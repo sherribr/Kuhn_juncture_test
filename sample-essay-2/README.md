@@ -9,16 +9,16 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Sample visual essay
+<param title="house cat" eid="Q146" aliases="domestic cat">
+<param title="Felidae" eid="Q25265">
+<param title="Gotthelf Fischer von Waldheim" eid="Q57802" aliases="von Waldheim">
+<param title="name-used-in-essay" eid="digital-identifier-number" aliases="other-names-used-in-essay">
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+# So Many Cats 
+This is a visual essay about cats in general as well as information about my own cats specifically. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+<param ve-graphic
+       manifest="https://upload.wikimedia.org/wikipedia/commons/6/6d/Closeup_of_a_black_cat.jpg">
 
 # Basic usage
 
