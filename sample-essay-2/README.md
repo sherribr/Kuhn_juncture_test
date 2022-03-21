@@ -3,7 +3,7 @@
 <param ve-config 
        title="Girl with a Pearl Earring"
        author="JSTOR Labs team"
-       banner="sample-essay-2/PandD.jpg" 
+       banner="https://juncture-digital.org/sherribr/Kuhn_juncture_test/sample-essay-2/PandD.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
