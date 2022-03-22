@@ -40,7 +40,7 @@ Now I want to show you an example of how to put a map in your essay. Initially, 
 
 ## Map 2 
 Then I want to show you where I adopted my cat, Kiki, from, in Fluvanna County, Virginia. 
-<param ve-map center="78.28,37.48" zoom="11">
+<param ve-map center="37.84,-78.28" zoom="11">
 
 ## Multiple viewers
 
