@@ -46,9 +46,8 @@ Then I want to show you where I adopted my cat, Kiki, from, in Fluvanna County, 
 
 In this paragraph I am showing you how to use multiple viewers as I talk about my second cat, Loki. My primary view is of a picture of Loki, as that is the first one I am going to define below.   
 I can add a different viewer, to show you a map of where I adopted Loki from, which will display with an icon in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
+<param ve-graphic label="Loki" description="picture of Loki peeking" license="public domain" graphic="Loki_Oct2020">
+<param ve-map center="Q123766" zoom="11">
 
 # References
 
