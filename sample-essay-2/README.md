@@ -42,10 +42,10 @@ Now I want to show you an example of how to put a map in your essay. Initially, 
 Then I want to show you where I adopted my cat, Kiki, from, in Fluvanna County, Virginia. 
 <param ve-map center="37.84,-78.28" zoom="11">
 
-## Multiple viewers
+## Multiple viewers - Loki
 
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
+In this paragraph I am showing you how to use multiple viewers as I talk about my second cat, Loki. My primary view is of a picture of Loki, as that is the first one I am going to define below.   
+I can add a different viewer, to show you a map of where I adopted Loki from, which will display with an icon in the top right margin of the paragraph.
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 <param ve-map center="Q36600" zoom="11">
