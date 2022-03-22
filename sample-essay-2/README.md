@@ -37,7 +37,10 @@ dated 1887. It is currently on display at the Musée d'Orsay in Paris. [^1] And 
 Now I want to show you an example of how to put a map in your essay. Initially, I am going to share the location of the Musee d'Orsay in Paris.
 <param ve-entity eid="Q23402">
 <param ve-map center="Q23402" zoom="11">
-Then I want to show you where I adopted my cat, Kiki, from, in Fluvanna County, Virginia. <param ve-map center="37.48,78.28" zoom="11">
+
+## Map 2 
+Then I want to show you where I adopted my cat, Kiki, from, in Fluvanna County, Virginia. 
+<param ve-map center="37.48,78.28" zoom="11">
 
 ## Multiple viewers
 
