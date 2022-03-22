@@ -18,7 +18,7 @@
 
 # So Many Cats 
 This is a visual essay about cats in general as well as information about my own cats specifically. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
-<param ve-graphic label "Black cat" description="a close-up picture of a black cat" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/6/6d/Closeup_of_a_black_cat.jpg">
+<param ve-graphic label="Black cat" description="a close-up picture of a black cat" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/6/6d/Closeup_of_a_black_cat.jpg">
 
 # Cats in art
 
@@ -46,7 +46,7 @@ Then I want to show you where I adopted my cat, Kiki, from, in Fluvanna County, 
 
 In this paragraph I am showing you how to use multiple viewers as I talk about my second cat, Loki. My primary view is of a picture of Loki, as that is the first one I am going to define below.   
 I can add a different viewer, to show you a map of where I adopted Loki from, which will display with an icon in the top right margin of the paragraph.
-<param ve-image label="Loki" description="picture of Loki peeking" license="public domain" url="https://github.com/sherribr/Kuhn_juncture_test/tree/main/sample-essay-2/Loki_Oct2020.jpg">
+<param ve-graphic label="Loki" description="picture of Loki peeking" license="public domain" url="https://github.com/sherribr/Kuhn_juncture_test/sample-essay-2/Loki_Oct2020.jpg">
 <param ve-map center="Q123766" zoom="11">
 
 # References
