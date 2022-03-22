@@ -14,6 +14,7 @@
 <param title="Felidae" eid="Q25265">
 <param title="Gotthelf Fischer von Waldheim" eid="Q57802" aliases="von Waldheim">
 <param title="name-used-in-essay" eid="digital-identifier-number" aliases="other-names-used-in-essay">
+<param title="Musée d'Orsay" eid="Q23402">
 
 # So Many Cats 
 This is a visual essay about cats in general as well as information about my own cats specifically. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
@@ -33,9 +34,9 @@ dated 1887. It is currently on display at the Musée d'Orsay in Paris. [^1] And 
 
 ## Map
 
-Now I want to show you an example of how to put a map in your essay. Initially, I am going to share the location of the Musee d'Orsay in France.
-<param ve-entity eid="Q2698691">
-<param ve-map center="Q2698691" zoom="11">
+Now I want to show you an example of how to put a map in your essay. Initially, I am going to share the location of the Musee d'Orsay in Paris.
+<param ve-entity eid="Q23402">
+<param ve-map center="Q23402" zoom="11">
 
 ## Multiple viewers
 
