@@ -25,7 +25,7 @@ This is a visual essay about cats in general as well as information about my own
 ## Impressionists 
 
 _Julie Manet_ (Also known as _Child with Cat_) is an oil painting by French painter and sculptor Auguste Renoir, 
-dated 1887. It is currently on display at the Musée d'Orsay in Paris. [^1] And here is some more information about cats that I want to cite. [^2]
+dated 1887. It is currently on display at the Musée d'Orsay in Paris. [^1] And here is some more information about cats that I want to cite. [^2]\
 And now I'm going to add another paragraph here. 
 <param ve-image 
        label="Julie Manet" 
