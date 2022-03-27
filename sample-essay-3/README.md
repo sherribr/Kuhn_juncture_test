@@ -28,7 +28,7 @@ Here I'm going to put some basic information about Doré and my essay. I can add
 
 Doré created illustrations for several Victorian editions of Samuel Taylor Coleridge's *The Rime of the Ancient Mariner*. [^1]
 <param ve-image 
-	label="The Mariner up on the mast in a storm.”
+	label="The Mariner up on the mast in a storm”
 	description="Illustration for *The Rime of the Ancient Mariner*" 
 	license="PD" 	
        url="https://upload.wikimedia.org/wikipedia/commons/8/80/Gustave_Dore_Ancient_Mariner_Illustration.jpg">
