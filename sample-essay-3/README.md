@@ -24,7 +24,7 @@ Here I'm going to put some basic information about Doré and my essay. I can add
        license="PD" 
        url="https://upload.wikimedia.org/wikipedia/commons/7/7e/F%C3%A9lix_Nadar_1820-1910_portraits_Gustave_Dor%C3%A9.jpg">
 
-## The Rime of the Ancient Mariner 
+## *The Rime of the Ancient Mariner*
 
 Doré created illustrations for several Victorian editions of Samuel Taylor Coleridge's *The Rime of the Ancient Mariner*. [^1]
 <param ve-image 
@@ -32,6 +32,14 @@ Doré created illustrations for several Victorian editions of Samuel Taylor Cole
 	description="Illustration for *The Rime of the Ancient Mariner*" 
 	license="PD" 	
         url="https://upload.wikimedia.org/wikipedia/commons/8/80/Gustave_Dore_Ancient_Mariner_Illustration.jpg">
+	
+## *The Raven*
+Here I put some information about Dore's edition of Edgar Allan Poe's The Raven. And now I want to show a picture of the cover. 
+<param ve-image 
+	label="Cover of *The Raven*”
+	description="Dore’s cover illustration for Edgar Allan Poe’s *The Raven*" 
+	license="PD" 	
+	url="Dore_Raven.jpg">
 
 
 ## Map
