@@ -9,30 +9,30 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+<param title=”Gustave Doré” eid=”Q6682” alias=”engraver”>
+<param title=”Strasbourg” eid=”Q6602”>
+<param title=”Romanticism” eid=”Q37068”>
+<param title=”Lord Byron” eid=”Q5679” alias=”Byron”>
 
-# Sample visual essay
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+# Doré's Illustrations 
+
+Here I'm going to put some basic information about Doré and my essay. I can add a [University at Buffalo Gustave Doré illustrations site](https://digital.lib.buffalo.edu/collection/LIB-SC001/) for more examples. 
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       label="Gustave Doré" 
+       description="photograph by Félix Nadar" 
+       license="PD" 
+       url="https://upload.wikimedia.org/wikipedia/commons/7/7e/F%C3%A9lix_Nadar_1820-1910_portraits_Gustave_Dor%C3%A9.jpg">
 
-# Basic usage
+## The Rime of the Ancient Mariner 
 
-## Image
-
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+Doré created illustrations for several Victorian editions of Samuel Taylor Coleridge's *The Rime of the Ancient Mariner*. [^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
-       license="public domain" 
-       rotate=90
-       url="Dore_Raven.jpg">
+	label="The Mariner up on the mast in a storm.”
+	description="Illustration for *The Rime of the Ancient Mariner*" 
+	license="PD" 	
+       url="https://upload.wikimedia.org/wikipedia/commons/8/80/Gustave_Dore_Ancient_Mariner_Illustration.jpg">
+
 
 ## Map
 
@@ -50,4 +50,4 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [Wikipedia: The Rime of the Ancient Mariner](https://en.wikipedia.org/wiki/The_Rime_of_the_Ancient_Mariner)
