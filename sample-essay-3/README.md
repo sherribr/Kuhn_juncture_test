@@ -47,6 +47,12 @@ Here I put some information about Dore's edition of Edgar Allan Poe's The Raven.
 
 Gustave Doré was born in the city of Strasbourg in eastern France, blah blah . . .
 <param ve-map center="Q6602" zoom="11">
+				      
+## Map of Harrison-Small Special Collections
+				      
+Now I want to show you how to map something that does not have a Wikidata entry. You can do this using latitude and longitude coordinates in decimal. 
+<param ve-map center="38.0360825,-78.5080211" zoom="11"				      
+				   
 
 
 ## Multiple viewers
