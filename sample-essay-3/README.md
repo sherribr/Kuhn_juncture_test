@@ -39,6 +39,7 @@ Here I put some information about Dore's edition of Edgar Allan Poe's The Raven.
 	label="Cover of *The Raven*”
 	description="Dore’s cover illustration for Edgar Allan Poe’s *The Raven*" 
 	license="PD" 	
+	rotate="90"
 	url="Dore_Raven.jpg">
 
 
