@@ -9,10 +9,10 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param title=”Gustave Doré” eid=”Q6682” alias=”engraver”>
-<param title=”Strasbourg” eid=”Q6602”>
-<param title=”Romanticism” eid=”Q37068”>
-<param title=”Lord Byron” eid=”Q5679” alias=”Byron”>
+<param title="Gustave Doré" eid="Q6682" alias="engraver">
+<param title="Strasbourg" eid="Q6602">
+<param title="Romanticism" eid="Q37068">
+<param title="Lord Byron" eid="Q5679" alias="Byron">
 
 
 # Doré's Illustrations 
@@ -28,10 +28,10 @@ Here I'm going to put some basic information about Doré and my essay. I can add
 
 Doré created illustrations for several Victorian editions of Samuel Taylor Coleridge's *The Rime of the Ancient Mariner*. [^1]
 <param ve-image 
-	label="The Mariner up on the mast in a storm”
+	label="The Mariner up on the mast in a storm"
 	description="Illustration for *The Rime of the Ancient Mariner*" 
 	license="PD" 	
-       url="https://upload.wikimedia.org/wikipedia/commons/8/80/Gustave_Dore_Ancient_Mariner_Illustration.jpg">
+        url="https://upload.wikimedia.org/wikipedia/commons/8/80/Gustave_Dore_Ancient_Mariner_Illustration.jpg">
 
 
 ## Map
