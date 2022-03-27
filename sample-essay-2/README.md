@@ -10,11 +10,11 @@
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 
-<param title="house cat" eid="Q146" aliases="domestic cat">
-<param title="Felidae" eid="Q25265">
-<param title="Gotthelf Fischer von Waldheim" eid="Q57802" aliases="von Waldheim">
-<param title="name-used-in-essay" eid="digital-identifier-number" aliases="other-names-used-in-essay">
-<param title="Musée d'Orsay" eid="Q23402">
+<param ve-entity title="house cat" eid="Q146" aliases="domestic cat">
+<param ve-entity title="Felidae" eid="Q25265">
+<param ve-entity title="Gotthelf Fischer von Waldheim" eid="Q57802" aliases="von Waldheim">
+<param ve-entity title="name-used-in-essay" eid="digital-identifier-number" aliases="other-names-used-in-essay">
+<param ve-entity title="Musée d'Orsay" eid="Q23402">
 
 # So Many Cats 
 This is a visual essay about cats in general as well as information about my own cats specifically. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
