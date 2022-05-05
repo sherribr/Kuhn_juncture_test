@@ -64,8 +64,8 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 ## Curtain Object 				       
 Multiple viewers may be defined for a single paragraph of text. The first viewer defined is displayed as the default viewer.			       
-<param ve-compare curtain url="https://stor.artstor.org/stor/f5acfe60-3c2c-4d9e-979f-2ec2896ebb2d" label="St Augustine's College, Canterbury (2021)">
-<param ve-compare url="https://stor.artstor.org/stor/deb8a6fd-bc51-42fb-8ac2-28b556c482ab" label="St Augustine's College, Canterbury (1905 or earlier)">			       
+<param ve-compare curtain url="https://stor.artstor.org/stor/10970784-2155-498d-8b05-d8586b1f67d0" label="Cafe Nero High Street (2021)" description="Canterbury High Street 2021" attribution="Calum Elliot and Emma Molford" license="In Copyright">
+<param ve-compare url="https://stor.artstor.org/stor/1420f054-9ba2-427b-b007-6aa22a7e785d" label="Cafe Nero High Street (pre 1918)" description="Canterbury High Street. Unposted and with no identifying features." license="No Known Copyright">			       
 
 # References
 
