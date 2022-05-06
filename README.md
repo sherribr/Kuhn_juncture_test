@@ -6,7 +6,7 @@ With Juncture you can create a single essay or build a full website consisting o
 
 More information can be found on the [Juncture web site](https://juncture-digital.org) and in the online [User guide](https://github.com/JSTOR-Labs/juncture/wiki).
 
-Find a course description for Mary's class on the [UVA Depeartment of English's Graduate Course Descriptions page](https://english.as.virginia.edu/courses/graduate-course-descriptions-spring-2022).
+Find a course description for Mary's class on the [UVA Department of English's Graduate Course Descriptions page](https://english.as.virginia.edu/courses/graduate-course-descriptions-spring-2022).
 
 * This is a link to [my first essay](sample-essay).
 * My [second essay](sample-essay-2).
